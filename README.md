@@ -71,4 +71,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Contacto
 
-Para preguntas o sugerencias, por favor contacta a [tu_email@example.com].
+Rafael Ramírez Salas
+Universidad de Málaga
